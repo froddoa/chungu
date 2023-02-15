@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="New Test Suite pulpito repetido - Copy (16)" time="28.155" tests="1" failures="0" errors="0">
+   <testsuite name="New Test Suite pulpito repetido - Copy (16)" tests="1" failures="0" errors="0" time="28.155" skipped="0" timestamp="2023-02-14 19:12:53" hostname="hexas - DESKTOP-C94ONF5.mshome.net" id="Test Suites/New Test Suite pulpito repetido - Copy (16)">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\hexas\\git\\chungu\\Reports\\20230214_190752\\New Test Suite pulpito repetido - Copy (16)\\20230214_190807"/>
+         <property name="logFiles" value="C:\\Users\\hexas\\git\\chungu\\Reports\\20230214_190752\\New Test Suite pulpito repetido - Copy (16)\\20230214_190807\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hexas - DESKTOP-C94ONF5.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="8.5.5.208"/>
+         <property name="browser" value="Chrome 110.0.0.0"/>
+         <property name="hostAddress" value="192.168.137.1"/>
+         <property name="sessionId" value="5f15050c8ff11810f1a1b8f424f7ada4"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/Test como crear un pulpito - Copy (3)" time="27.574" classname="Test Cases/Test como crear un pulpito - Copy (3)" status="PASSED">
+         <system-out><![CDATA[2023-02-14 19:12:53 - [TEST_CASE][PASSED] - Test Cases/Test como crear un pulpito - Copy (3): Test Cases/Test como crear un pulpito - Copy (3)
+
+2023-02-14 19:12:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-02-14 19:12:55 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-02-14 19:12:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-02-14 19:12:59 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-02-14 19:12:59 - [TEST_STEP][PASSED] - navigateToUrl("https://www.google.com/"): Navigate to 'https://www.google.com/' successfully
+
+2023-02-14 19:13:02 - [MESSAGE][PASSED] - Navigate to 'https://www.google.com/' successfully
+
+2023-02-14 19:13:02 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Google/input__q (1)"), "como hacer un pulpito"): Text 'como hacer un pulpito' is set on object 'Object Repository/Page_Google/input__q (1)'
+
+2023-02-14 19:13:03 - [MESSAGE][PASSED] - Text 'como hacer un pulpito' is set on object 'Object Repository/Page_Google/input__q (1)'
+
+2023-02-14 19:13:03 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Google/input__q (1)"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Google/input__q (1)'
+
+2023-02-14 19:13:20 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Google/input__q (1)'
+
+2023-02-14 19:13:20 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-02-14 19:13:21 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-02-14 19:12:53 - [TEST_SUITE][PASSED] - New Test Suite pulpito repetido - Copy (16): Test Cases/Test como crear un pulpito - Copy (3)]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

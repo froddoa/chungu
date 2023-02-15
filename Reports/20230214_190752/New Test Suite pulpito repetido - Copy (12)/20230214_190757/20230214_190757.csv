@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite pulpito repetido - Copy (12),Chrome 110.0.0.0,,,2023-02-14 19:10:15,2023-02-14 19:10:45,29.514s,PASSED
+,,,,,,,
+Test Cases/Test como crear un pulpito - Copy (4),Chrome 110.0.0.0,,,2023-02-14 19:10:16,2023-02-14 19:10:45,29.011s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:10:17,2023-02-14 19:10:21,4.228s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:10:21,2023-02-14 19:10:25,4.212s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q (1)""), ""como hacer un pulpito"")",Chrome 110.0.0.0,,,2023-02-14 19:10:25,2023-02-14 19:10:26,1.307s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q (1)""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:10:26,2023-02-14 19:10:44,17.652s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:10:44,2023-02-14 19:10:45,0.888s,PASSED

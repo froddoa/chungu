@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite pulpito repetido - Copy,Chrome 110.0.0.0,,,2023-02-14 19:22:43,2023-02-14 19:23:09,25.688s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (3),Chrome 110.0.0.0,,,2023-02-14 19:22:43,2023-02-14 19:23:09,25.202s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:22:45,2023-02-14 19:22:51,5.763s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:22:51,2023-02-14 19:22:57,6.461s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:22:57,2023-02-14 19:23:07,10.233s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:23:07,2023-02-14 19:23:09,1.265s,PASSED

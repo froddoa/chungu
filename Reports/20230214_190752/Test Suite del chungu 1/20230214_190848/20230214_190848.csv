@@ -1,0 +1,132 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite del chungu 1,Chrome 110.0.0.0,,,2023-02-14 19:24:26,2023-02-14 19:31:04,6m - 38.204s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (1),Chrome 110.0.0.0,,,2023-02-14 19:24:27,2023-02-14 19:24:47,20.607s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:24:27,2023-02-14 19:24:31,3.961s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:24:31,2023-02-14 19:24:39,8.085s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:24:39,2023-02-14 19:24:46,6.813s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:24:46,2023-02-14 19:24:47,1.013s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (2),Chrome 110.0.0.0,,,2023-02-14 19:24:47,2023-02-14 19:25:03,15.459s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:24:48,2023-02-14 19:24:50,1.912s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:24:50,2023-02-14 19:24:55,5.477s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:24:55,2023-02-14 19:25:02,6.557s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:25:02,2023-02-14 19:25:03,0.859s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (3),Chrome 110.0.0.0,,,2023-02-14 19:25:03,2023-02-14 19:25:23,19.922s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:25:03,2023-02-14 19:25:06,2.316s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:25:06,2023-02-14 19:25:15,8.952s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:25:15,2023-02-14 19:25:22,7.144s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:25:22,2023-02-14 19:25:23,0.869s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (4),Chrome 110.0.0.0,,,2023-02-14 19:25:23,2023-02-14 19:25:47,23.888s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:25:23,2023-02-14 19:25:25,1.693s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:25:25,2023-02-14 19:25:36,11.404s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:25:36,2023-02-14 19:25:46,9.297s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:25:46,2023-02-14 19:25:47,0.957s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (5),Chrome 110.0.0.0,,,2023-02-14 19:25:47,2023-02-14 19:26:04,17.544s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:25:47,2023-02-14 19:25:50,2.280s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:25:50,2023-02-14 19:25:57,7.236s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:25:57,2023-02-14 19:26:03,6.038s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:26:03,2023-02-14 19:26:04,1.371s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (6),Chrome 110.0.0.0,,,2023-02-14 19:26:04,2023-02-14 19:26:48,44.080s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:26:05,2023-02-14 19:26:08,3.316s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:26:08,2023-02-14 19:26:26,17.802s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:26:26,2023-02-14 19:26:47,21.055s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:26:47,2023-02-14 19:26:48,0.918s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (7),Chrome 110.0.0.0,,,2023-02-14 19:26:48,2023-02-14 19:27:10,21.747s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:26:49,2023-02-14 19:26:51,2.226s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:26:51,2023-02-14 19:26:58,6.276s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:26:58,2023-02-14 19:27:08,10.493s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:27:08,2023-02-14 19:27:10,1.834s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (8),Chrome 110.0.0.0,,,2023-02-14 19:27:10,2023-02-14 19:27:30,19.854s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:27:11,2023-02-14 19:27:14,2.434s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:27:14,2023-02-14 19:27:21,7.210s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:27:21,2023-02-14 19:27:29,7.841s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:27:29,2023-02-14 19:27:30,1.239s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy,Chrome 110.0.0.0,,,2023-02-14 19:27:30,2023-02-14 19:27:51,21.178s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:27:31,2023-02-14 19:27:33,1.949s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:27:33,2023-02-14 19:27:40,7.174s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:27:40,2023-02-14 19:27:49,9.165s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:27:49,2023-02-14 19:27:51,1.856s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar,Chrome 110.0.0.0,,,2023-02-14 19:27:51,2023-02-14 19:28:19,28.055s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:27:52,2023-02-14 19:27:54,2.033s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-14 19:27:54,2023-02-14 19:28:05,11.519s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-14 19:28:05,2023-02-14 19:28:18,12.473s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:28:18,2023-02-14 19:28:19,1.170s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (1) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:28:19,2023-02-14 19:28:39,19.621s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:28:20,2023-02-14 19:28:22,1.859s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:28:22,2023-02-14 19:28:28,5.722s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:28:28,2023-02-14 19:28:29,1.031s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:28:29,2023-02-14 19:28:38,9.187s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:28:38,2023-02-14 19:28:39,0.850s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (1),Chrome 110.0.0.0,,,2023-02-14 19:28:39,2023-02-14 19:29:00,21.455s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:28:40,2023-02-14 19:28:41,1.794s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:28:41,2023-02-14 19:28:47,5.810s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:28:47,2023-02-14 19:28:48,0.924s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:28:48,2023-02-14 19:28:59,11.186s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:28:59,2023-02-14 19:29:00,0.997s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (10) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:29:00,2023-02-14 19:29:18,17.637s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:29:01,2023-02-14 19:29:02,1.613s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:29:02,2023-02-14 19:29:07,4.495s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:29:07,2023-02-14 19:29:08,0.883s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:29:08,2023-02-14 19:29:17,9.238s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:29:17,2023-02-14 19:29:18,0.814s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (10),Chrome 110.0.0.0,,,2023-02-14 19:29:18,2023-02-14 19:29:36,18.341s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:29:18,2023-02-14 19:29:20,1.777s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:29:20,2023-02-14 19:29:28,7.347s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:29:28,2023-02-14 19:29:28,0.911s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:29:28,2023-02-14 19:29:35,6.967s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:29:35,2023-02-14 19:29:36,0.817s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (11) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:29:36,2023-02-14 19:29:51,14.350s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:29:37,2023-02-14 19:29:38,1.645s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:29:38,2023-02-14 19:29:43,4.131s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:29:43,2023-02-14 19:29:44,1.078s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:29:44,2023-02-14 19:29:49,5.700s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:29:49,2023-02-14 19:29:51,1.264s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (11),Chrome 110.0.0.0,,,2023-02-14 19:29:51,2023-02-14 19:30:03,12.299s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:29:51,2023-02-14 19:29:53,1.569s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:29:53,2023-02-14 19:29:56,2.852s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:29:56,2023-02-14 19:29:56,0.832s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:29:56,2023-02-14 19:30:02,5.638s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:30:02,2023-02-14 19:30:03,0.775s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (12) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:30:03,2023-02-14 19:30:16,12.631s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:30:04,2023-02-14 19:30:05,1.741s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:30:05,2023-02-14 19:30:08,2.774s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:30:08,2023-02-14 19:30:09,0.871s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:30:09,2023-02-14 19:30:15,5.632s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:30:15,2023-02-14 19:30:16,1.017s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (12),Chrome 110.0.0.0,,,2023-02-14 19:30:16,2023-02-14 19:30:32,16.292s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:30:16,2023-02-14 19:30:18,2.154s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:30:18,2023-02-14 19:30:23,4.228s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:30:23,2023-02-14 19:30:24,0.998s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:30:24,2023-02-14 19:30:31,7.539s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:30:31,2023-02-14 19:30:32,0.805s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (13) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:30:32,2023-02-14 19:30:46,13.945s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:30:32,2023-02-14 19:30:34,1.888s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:30:34,2023-02-14 19:30:37,2.976s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:30:37,2023-02-14 19:30:38,0.825s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:30:38,2023-02-14 19:30:45,6.964s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:30:45,2023-02-14 19:30:46,0.780s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (13),Chrome 110.0.0.0,,,2023-02-14 19:30:46,2023-02-14 19:31:04,18.552s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:30:46,2023-02-14 19:30:49,2.535s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:30:49,2023-02-14 19:30:53,4.184s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:30:53,2023-02-14 19:30:54,0.813s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:30:54,2023-02-14 19:31:04,9.657s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:31:04,2023-02-14 19:31:04,0.825s,PASSED

@@ -1,0 +1,205 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Test Suite del chunguito,Chrome 110.0.0.0,,,2023-02-14 19:31:11,2023-02-14 19:39:49,8m - 38.244s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (14) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:31:11,2023-02-14 19:31:35,23.462s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:31:12,2023-02-14 19:31:17,5.017s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:31:17,2023-02-14 19:31:23,5.570s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:31:23,2023-02-14 19:31:24,1.017s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:31:24,2023-02-14 19:31:34,9.667s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:31:34,2023-02-14 19:31:35,0.890s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (14),Chrome 110.0.0.0,,,2023-02-14 19:31:35,2023-02-14 19:31:53,18.866s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:31:35,2023-02-14 19:31:37,1.904s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:31:37,2023-02-14 19:31:42,5.271s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:31:42,2023-02-14 19:31:43,0.876s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:31:43,2023-02-14 19:31:53,9.409s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:31:53,2023-02-14 19:31:53,0.845s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (15) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:31:53,2023-02-14 19:32:12,18.547s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:31:54,2023-02-14 19:31:56,1.654s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:31:56,2023-02-14 19:32:01,5.531s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:32:01,2023-02-14 19:32:02,0.871s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:32:02,2023-02-14 19:32:11,8.937s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:32:11,2023-02-14 19:32:12,0.802s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (15),Chrome 110.0.0.0,,,2023-02-14 19:32:12,2023-02-14 19:32:30,17.510s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:32:13,2023-02-14 19:32:14,1.780s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:32:14,2023-02-14 19:32:20,5.082s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:32:20,2023-02-14 19:32:21,0.976s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:32:21,2023-02-14 19:32:29,8.059s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:32:29,2023-02-14 19:32:30,0.987s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (16) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:32:30,2023-02-14 19:32:46,16.167s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:32:30,2023-02-14 19:32:32,1.864s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:32:32,2023-02-14 19:32:35,3.165s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:32:35,2023-02-14 19:32:36,0.847s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:32:36,2023-02-14 19:32:45,8.890s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:32:45,2023-02-14 19:32:46,0.785s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (17) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:32:46,2023-02-14 19:33:01,15.588s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:32:46,2023-02-14 19:32:48,1.791s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:32:48,2023-02-14 19:32:53,4.981s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:32:53,2023-02-14 19:32:54,0.948s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:32:54,2023-02-14 19:33:00,6.393s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:33:00,2023-02-14 19:33:01,0.885s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (16),Chrome 110.0.0.0,,,2023-02-14 19:33:01,2023-02-14 19:33:17,15.751s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:33:02,2023-02-14 19:33:04,1.780s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:33:04,2023-02-14 19:33:07,3.081s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:33:07,2023-02-14 19:33:08,1.056s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:33:08,2023-02-14 19:33:16,8.403s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:33:16,2023-02-14 19:33:17,0.744s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (17),Chrome 110.0.0.0,,,2023-02-14 19:33:17,2023-02-14 19:33:31,14.211s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:33:18,2023-02-14 19:33:19,1.576s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:33:19,2023-02-14 19:33:23,3.246s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:33:23,2023-02-14 19:33:24,0.888s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:33:24,2023-02-14 19:33:31,6.965s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:33:31,2023-02-14 19:33:31,0.774s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (18) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:33:31,2023-02-14 19:33:45,14.030s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:33:32,2023-02-14 19:33:34,1.870s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:33:34,2023-02-14 19:33:37,3.413s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:33:37,2023-02-14 19:33:38,0.935s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:33:38,2023-02-14 19:33:45,6.278s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:33:45,2023-02-14 19:33:45,0.848s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (18),Chrome 110.0.0.0,,,2023-02-14 19:33:45,2023-02-14 19:34:06,20.888s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:33:46,2023-02-14 19:33:48,1.834s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:33:48,2023-02-14 19:33:52,3.743s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:33:52,2023-02-14 19:33:53,1.117s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:33:53,2023-02-14 19:34:05,12.684s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:34:05,2023-02-14 19:34:06,0.831s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (19) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:34:06,2023-02-14 19:34:21,14.761s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:34:07,2023-02-14 19:34:09,2.055s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:34:09,2023-02-14 19:34:12,3.320s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:34:12,2023-02-14 19:34:13,0.833s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:34:13,2023-02-14 19:34:20,7.197s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:34:20,2023-02-14 19:34:21,0.785s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (19),Chrome 110.0.0.0,,,2023-02-14 19:34:21,2023-02-14 19:34:38,17.360s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:34:22,2023-02-14 19:34:24,1.875s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:34:24,2023-02-14 19:34:28,4.526s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:34:28,2023-02-14 19:34:29,0.891s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:34:29,2023-02-14 19:34:38,8.557s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:34:38,2023-02-14 19:34:38,0.868s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (2) - Copy,Chrome 110.0.0.0,,,2023-02-14 19:34:38,2023-02-14 19:34:59,20.282s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:34:39,2023-02-14 19:34:41,2.043s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:34:41,2023-02-14 19:34:50,8.543s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:34:50,2023-02-14 19:34:51,0.920s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:34:51,2023-02-14 19:34:58,7.347s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:34:58,2023-02-14 19:34:59,0.826s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (2),Chrome 110.0.0.0,,,2023-02-14 19:34:59,2023-02-14 19:35:13,14.729s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:34:59,2023-02-14 19:35:01,1.618s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:35:01,2023-02-14 19:35:05,4.092s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:35:05,2023-02-14 19:35:06,0.866s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:35:06,2023-02-14 19:35:12,6.529s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:35:12,2023-02-14 19:35:13,1.050s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (20),Chrome 110.0.0.0,,,2023-02-14 19:35:13,2023-02-14 19:35:26,12.372s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:35:14,2023-02-14 19:35:16,1.749s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:35:16,2023-02-14 19:35:19,2.940s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:35:19,2023-02-14 19:35:20,0.937s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:35:20,2023-02-14 19:35:25,5.430s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:35:25,2023-02-14 19:35:26,0.759s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (21),Chrome 110.0.0.0,,,2023-02-14 19:35:26,2023-02-14 19:35:49,22.736s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:35:26,2023-02-14 19:35:28,1.751s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:35:28,2023-02-14 19:35:36,7.546s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:35:36,2023-02-14 19:35:37,0.912s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:35:37,2023-02-14 19:35:47,10.830s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:35:47,2023-02-14 19:35:49,1.107s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (22),Chrome 110.0.0.0,,,2023-02-14 19:35:49,2023-02-14 19:36:10,21.568s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:35:50,2023-02-14 19:35:52,2.419s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:35:52,2023-02-14 19:35:57,4.957s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:35:57,2023-02-14 19:35:58,0.888s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:35:58,2023-02-14 19:36:09,11.171s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:36:09,2023-02-14 19:36:10,0.910s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (23),Chrome 110.0.0.0,,,2023-02-14 19:36:10,2023-02-14 19:36:28,17.975s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:36:11,2023-02-14 19:36:13,1.961s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:36:13,2023-02-14 19:36:18,5.043s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:36:18,2023-02-14 19:36:19,1.197s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:36:19,2023-02-14 19:36:27,8.297s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:36:27,2023-02-14 19:36:28,0.847s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (24),Chrome 110.0.0.0,,,2023-02-14 19:36:28,2023-02-14 19:36:40,11.805s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:36:29,2023-02-14 19:36:31,1.820s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:36:31,2023-02-14 19:36:33,2.741s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:36:33,2023-02-14 19:36:34,0.860s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:36:34,2023-02-14 19:36:39,5.024s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:36:39,2023-02-14 19:36:40,0.778s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (3),Chrome 110.0.0.0,,,2023-02-14 19:36:40,2023-02-14 19:36:54,13.852s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:36:41,2023-02-14 19:36:43,1.991s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:36:43,2023-02-14 19:36:45,2.642s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:36:45,2023-02-14 19:36:46,1.092s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:36:46,2023-02-14 19:36:53,6.653s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:36:53,2023-02-14 19:36:54,0.828s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (5),Chrome 110.0.0.0,,,2023-02-14 19:36:54,2023-02-14 19:37:10,16.588s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:36:54,2023-02-14 19:36:57,2.126s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:36:57,2023-02-14 19:37:00,3.808s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:37:00,2023-02-14 19:37:02,1.214s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:37:02,2023-02-14 19:37:09,7.205s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:37:09,2023-02-14 19:37:10,1.657s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (4),Chrome 110.0.0.0,,,2023-02-14 19:37:10,2023-02-14 19:37:28,17.614s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:37:11,2023-02-14 19:37:13,2.021s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:37:13,2023-02-14 19:37:17,4.085s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:37:17,2023-02-14 19:37:18,0.944s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:37:18,2023-02-14 19:37:27,9.085s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:37:27,2023-02-14 19:37:28,0.786s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (6),Chrome 110.0.0.0,,,2023-02-14 19:37:28,2023-02-14 19:37:49,20.753s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:37:29,2023-02-14 19:37:30,1.696s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:37:30,2023-02-14 19:37:37,7.159s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:37:37,2023-02-14 19:37:39,1.453s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:37:39,2023-02-14 19:37:48,8.904s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:37:48,2023-02-14 19:37:49,1.009s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (7),Chrome 110.0.0.0,,,2023-02-14 19:37:49,2023-02-14 19:38:15,26.175s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:37:50,2023-02-14 19:37:52,2.395s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:37:52,2023-02-14 19:38:00,7.718s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:38:00,2023-02-14 19:38:01,0.931s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:38:01,2023-02-14 19:38:14,13.516s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:38:14,2023-02-14 19:38:15,0.925s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (8),Chrome 110.0.0.0,,,2023-02-14 19:38:15,2023-02-14 19:38:42,26.664s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:38:16,2023-02-14 19:38:18,2.132s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:38:18,2023-02-14 19:38:26,7.607s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:38:26,2023-02-14 19:38:26,0.816s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:38:26,2023-02-14 19:38:40,13.968s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:38:40,2023-02-14 19:38:42,1.309s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (9),Chrome 110.0.0.0,,,2023-02-14 19:38:42,2023-02-14 19:38:59,17.089s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:38:42,2023-02-14 19:38:44,1.974s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:38:44,2023-02-14 19:38:47,2.770s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:38:47,2023-02-14 19:38:48,0.979s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:38:48,2023-02-14 19:38:58,10.023s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:38:58,2023-02-14 19:38:59,0.794s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy - Copy,Chrome 110.0.0.0,,,2023-02-14 19:38:59,2023-02-14 19:39:17,17.842s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:38:59,2023-02-14 19:39:01,1.911s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:39:01,2023-02-14 19:39:07,5.678s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:39:07,2023-02-14 19:39:08,1.044s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:39:08,2023-02-14 19:39:15,7.100s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:39:15,2023-02-14 19:39:17,1.549s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy,Chrome 110.0.0.0,,,2023-02-14 19:39:17,2023-02-14 19:39:34,16.956s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:39:17,2023-02-14 19:39:19,1.853s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:39:19,2023-02-14 19:39:23,4.061s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:39:23,2023-02-14 19:39:24,0.946s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:39:24,2023-02-14 19:39:33,8.511s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:39:33,2023-02-14 19:39:34,1.024s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv,Chrome 110.0.0.0,,,2023-02-14 19:39:34,2023-02-14 19:39:49,15.206s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-14 19:39:34,2023-02-14 19:39:36,1.803s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-14 19:39:36,2023-02-14 19:39:40,3.494s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-14 19:39:40,2023-02-14 19:39:40,0.872s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-14 19:39:40,2023-02-14 19:39:48,7.638s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-14 19:39:48,2023-02-14 19:39:49,0.798s,PASSED
