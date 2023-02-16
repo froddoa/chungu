@@ -1,0 +1,14 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite pulpito repetido - Copy (1),Chrome 110.0.0.0,,,2023-02-16 15:01:44,2023-02-16 15:04:03,2m - 19.393s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (1),Chrome 110.0.0.0,,,2023-02-16 15:01:44,2023-02-16 15:03:08,1m - 23.582s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-16 15:01:46,2023-02-16 15:01:52,5.966s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-16 15:01:52,2023-02-16 15:02:03,11.034s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-16 15:02:03,2023-02-16 15:03:06,1m - 3.518s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-16 15:03:06,2023-02-16 15:03:08,1.901s,PASSED
+,,,,,,,
+Test Cases/New Test Case - calamar - Copy (3),Chrome 110.0.0.0,,,2023-02-16 15:03:08,2023-02-16 15:04:03,54.975s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-16 15:03:09,2023-02-16 15:03:11,1.971s,PASSED
+"navigateToUrl(""https://compucalitv.org/"")",Chrome 110.0.0.0,,,2023-02-16 15:03:11,2023-02-16 15:04:00,48.211s,PASSED
+"click(findTestObject(""Object Repository/Page_CompucaliTV  Ocio y Entretenimiento/a_Pelculas""))",Chrome 110.0.0.0,,,2023-02-16 15:04:00,2023-02-16 15:04:02,2.629s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-16 15:04:02,2023-02-16 15:04:03,0.826s,PASSED
