@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite pulpito repetido - Copy (2),Chrome 110.0.0.0,,,2023-02-16 18:49:28,2023-02-16 18:50:23,54.475s,PASSED
+,,,,,,,
+Test Cases/New Test Case- compucalitv - Copy (9),Chrome 110.0.0.0,,,2023-02-16 18:49:30,2023-02-16 18:50:23,52.513s,PASSED
+"openBrowser("""")",Chrome 110.0.0.0,,,2023-02-16 18:49:33,2023-02-16 18:49:48,15.019s,PASSED
+"navigateToUrl(""https://www.google.com/"")",Chrome 110.0.0.0,,,2023-02-16 18:49:48,2023-02-16 18:49:59,11.400s,PASSED
+"setText(findTestObject(""Object Repository/Page_Google/input__q""), ""cines unidos"")",Chrome 110.0.0.0,,,2023-02-16 18:49:59,2023-02-16 18:50:02,2.441s,PASSED
+"sendKeys(findTestObject(""Object Repository/Page_Google/input__q""), Keys.chord(ENTER))",Chrome 110.0.0.0,,,2023-02-16 18:50:02,2023-02-16 18:50:17,15.687s,PASSED
+closeBrowser(),Chrome 110.0.0.0,,,2023-02-16 18:50:17,2023-02-16 18:50:23,5.318s,PASSED
